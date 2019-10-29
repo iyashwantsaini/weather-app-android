@@ -5,4 +5,4 @@ An android application to know current Weather, Temperature, Pressure ,Humidity 
 # Screenshots
 
 ![alt text](screen_kkr.png)
-![alt text](screen_lomdon.png)
+![alt text](screen_london.png)
